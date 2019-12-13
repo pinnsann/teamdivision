@@ -1,0 +1,2 @@
+# teamdivision
+discordのチーム分けbot
